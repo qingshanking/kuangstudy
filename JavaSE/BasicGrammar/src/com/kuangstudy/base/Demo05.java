@@ -1,3 +1,5 @@
+package com.kuangstudy.base;
+
 /**
  * 变量、作用域
  *

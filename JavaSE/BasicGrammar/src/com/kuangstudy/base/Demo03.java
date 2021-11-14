@@ -1,3 +1,5 @@
+package com.kuangstudy.base;
+
 /**
  * 拓展演示
  *

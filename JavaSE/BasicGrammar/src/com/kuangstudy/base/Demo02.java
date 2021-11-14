@@ -1,3 +1,5 @@
+package com.kuangstudy.base;
+
 /**
  * 数据类型
  *

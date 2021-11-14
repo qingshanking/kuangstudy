@@ -1,3 +1,5 @@
+package com.kuangstudy.base;
+
 /**
  * 标识符命名举例
  *

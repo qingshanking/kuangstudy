@@ -1,3 +1,5 @@
+package com.kuangstudy.base;
+
 /**
  * 类型转换
  *
